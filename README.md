@@ -18,3 +18,20 @@ Created PDF using marksheet data :
 
 
 <img width="450" alt="Screenshot 2024-03-30 at 10 37 44 PM" src="https://github.com/aashishkhobragade/Python-Projects/assets/98031635/81e1eadb-b21f-4ace-a4c5-d2b1f6969b02">
+
+
+### 2.Image to Text Converter using Tkinter and Tesseract OCR
+This project is a simple Python application built with Tkinter for the graphical user interface (GUI) and utilizes Tesseract OCR (Optical Character Recognition) to convert text from images. Below is an overview and setup guide for the project.
+
+###Outputs
+
+Graphical User Interface
+
+<img width="450" alt="Screenshot 2024-06-17 at 7 57 26 PM" src="https://github.com/aashishkhobragade/Python-Projects/assets/98031635/dba4c166-c5e5-4f35-900a-75bddf79a8b0">
+
+
+Extracted Text Demostration
+
+<img width="450" alt="Screenshot 2024-06-17 at 7 58 05 PM" src="https://github.com/aashishkhobragade/Python-Projects/assets/98031635/58a31cd2-e98f-45fe-9d3d-7b695479ff89">
+
+
