@@ -29,7 +29,6 @@ Graphical User Interface
 
 <img width="450" alt="Screenshot 2024-06-17 at 7 57 26 PM" src="https://github.com/aashishkhobragade/Python-Projects/assets/98031635/dba4c166-c5e5-4f35-900a-75bddf79a8b0">
 
-
 Extracted Text Demostration
 
 <img width="450" alt="Screenshot 2024-06-17 at 7 58 05 PM" src="https://github.com/aashishkhobragade/Python-Projects/assets/98031635/58a31cd2-e98f-45fe-9d3d-7b695479ff89">
